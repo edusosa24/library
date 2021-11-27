@@ -121,7 +121,7 @@ function addBook(){
 }
 
 
-// PRUEBA
+/* Test
 let wot = new Book("The wheel of time", "Robert Jordan", 864, true);
 let cd = new Book("Corazón delator", "Edgar Alan Poe", 18, true);
 addBookToLibrary(wot);
@@ -131,5 +131,4 @@ function refreshLibrary(){
   for(let i = 0; i < myLibrary.length; i++){
     displayNewBook(myLibrary[i]);
   }
-}
-// -------
+}*/
